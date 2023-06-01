@@ -2,7 +2,7 @@
   "name": "lambda-typescript-deployment",
   "version": "1.0.0",
   "description": "AWS Lambda deploy with typescript",
-  "author": "",
+  "author": "milkcoke",
   "private": true,
   "scripts": {
     "build": "tsc",
